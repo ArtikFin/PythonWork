@@ -1,10 +1,1 @@
-WHAT I NEED TO DO BEFORE LEAVING:
-ask joanie about regions
-neet to give brent tool
 
-
-
-
-
-
-SELECT 	   tblusers.numIdPk	  ,tblusers.numWWID      ,tblusers.varLastName      ,tblusers.varFirstName      ,tblusers.varMiddleInitial      ,tblusers.varEmail	  ,tblEvents.varEventName	  ,tblTeams.varTeamName,	  case 	  when tblUsers.numIdPk=tblTeams.numCaptainUserIdFk then 'Captain'	  when tblTeamsUsers.numUserIdFk like'%%' then 'Player'	  else ''	  end	  as isCaptain	  ,'Team User' as usertype  FROM [FSGProduction].[dbo].[tblUsers]  inner JOIN tblTeamsUsers on tblUsers.numIdPk=tblTeamsUsers.numUserIdFk  inner JOIN tblTeams on tblTeamsUsers.numTeamIdFk=tblTeams.numIdPk  inner JOIN tblEvents on tblEvents.numIdPk=tblTeams.numEventIdFk   where tblEvents.numIdPk = 22 union SELECT 	   tblusers.numIdPk	  ,tblusers.numWWID      ,tblusers.varLastName      ,tblusers.varFirstName      ,tblusers.varMiddleInitial      ,tblusers.varEmail	  ,tblEvents.varEventName	  ,'Individual User' as varTeamName,	  '' as isCaptain	  ,'Individual User' as usertype  FROM [FSGProduction].[dbo].[tblUsers]  inner JOIN tblIndividualEventsUsers on tblUsers.numIdPk=tblIndividualEventsUsers.numUserIdFk  inner JOIN tblEvents on tblEvents.numIdPk=tblIndividualEventsUsers.numEventIdFk  where tblEvents.numIdPk = 22  union  SELECT 	   tblusers.numIdPk	  ,tblusers.numWWID      ,tblusers.varLastName      ,tblusers.varFirstName      ,tblusers.varMiddleInitial      ,tblusers.varEmail	  ,tblEvents.varEventName	  ,'Free Agent' as varTeamName,	  '' as isCaptain	  ,'Free Agents' as usertype  FROM [FSGProduction].[dbo].[tblUsers]  inner JOIN tblFreeAgents on tblUsers.numIdPk=tblFreeAgents.numUserIdFk  inner JOIN tblEvents on tblEvents.numIdPk=tblFreeAgents.numEventIdFk  where tblEvents.numIdPk = 1  order by varTeamName
