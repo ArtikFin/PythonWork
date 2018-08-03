@@ -1,0 +1,196 @@
+2018-06-21 11:27:01.790178
+BLOCKS
+Waiting on Joanie - Admin page update
+Waiting on Others - RAC Roles  
+Waiting on Joanie - CVCG Bio Update
+
+
+TASKS
+For Joanie - Fix goto links on integration site
+For Joanie - Manage image assets (see email)
+Fore Brent - map CDIS to HRDS using the information he provided
+
+
+--------------------------------------------------
+
+2018-06-21 16:47:25.721436
+BLOCKS
+Waiting on Joanie - Admin page update
+Waiting on Others - RAC Roles  
+Waiting on Joanie - CVCG Bio Update
+Waiting on Brent - map CDIS to HRDS using the information he provided
+Waiting on Joanie - Manage image assets
+
+
+TASKS
+
+
+
+--------------------------------------------------
+2018-06-25 08:24:03.648951
+BLOCKS
+Waiting on Joanie - Admin page update
+Waiting on Others - RAC Roles  
+Waiting on Joanie - CVCG Bio Update
+Waiting on Brent - map CDIS to HRDS using the information he provided
+Waiting on Joanie - Manage image assets
+
+
+TASKS
+
+
+
+--------------------------------------------------
+
+2018-06-26 08:27:38.727024
+BLOCKS
+Waiting on Joanie - Admin page update
+Waiting on Others - RAC Roles  
+Waiting on Joanie - CVCG Bio Update
+Waiting on Brent - map CDIS to HRDS using the information he provided
+Waiting on Joanie - Manage image assets
+
+
+TASKS
+For Brent - Update the sitegames
+For Joanie - Make the excel on PE photos
+
+--------------------------------------------------
+
+2018-06-26 13:51:09.455287
+BLOCKS
+Waiting on Joanie - VTTIntegration on hold
+Waiting on Others - RAC Roles  
+Waiting on Joanie - CVCG Bio Update on hodl till next sprint
+Waiting on Brent - Update Site Games
+
+
+
+TASKS
+For Joanie - Integration cartoons
+For Joanie - Make the excel on PE photos
+
+--------------------------------------------------
+
+2018-06-26 16:52:16.599105
+BLOCKS
+Waiting on Joanie - VTTIntegration on hold
+Waiting on Others - RAC Roles  
+Waiting on Joanie - CVCG Bio Update on hodl till next sprint
+Waiting on Brent - Update Site Games
+
+
+
+TASKS
+For Joanie - Integration cartoons
+For Joanie - Make the excel on PE photos
+
+--------------------------------------------------
+2018-06-29 09:03:20.083163
+BLOCKS
+For on Joanie - VTTIntegration - on hold till Joanie gives next step
+For on Others - RAC Role - on hold till next report comes
+For on Joanie - CVCG Bio Update - on hold till next sprint
+
+
+
+
+TASKS
+For Joanie - Look for great video content from the portal - Do on Friday
+For Aura - Upload Guy's video to portal 
+For Joanie - Integration cartoon - Do on Friday
+For Joanie - PE Pages Photos - Coordinate a shooting for WW28.1
+For Brent - Update Site Games - Need to meet FRIDAY
+
+--------------------------------------------------
+
+2018-06-29 16:33:28.537858
+BLOCKS
+For on Joanie - VTTIntegration - on hold till Joanie gives next step
+For on Others - RAC Role - on hold till next report comes
+For on Joanie - CVCG Bio Update - on hold till next sprint
+
+
+
+
+TASKS
+For Joanie - Look for great video content from the portal - Do on Friday
+For Aura - Upload Guy's video to portal 
+For Joanie - Integration cartoon - Do on Friday
+For Joanie - PE Pages Photos - Coordinate a shooting for WW28.1
+For Brent - Update Site Games - Need to meet FRIDAY
+
+--------------------------------------------------
+
+2018-07-02 16:52:40.241137
+BLOCKS
+For on Joanie - VTTIntegration - on hold till Joanie gives next step
+For on Others - RAC Role - on hold till next report comes
+For on Joanie - CVCG Bio Update - on hold till next sprint
+For Joanie - PE Pages Photos - Shooting on WW28.1
+
+TASKS
+For Joanie - Look for video content from the portal - started
+For Joanie - Integration cartoon - Drafts done, need to draw 4real
+For Brent - Update Site Games - Meet
+
+--------------------------------------------------
+
+2018-07-06 09:15:57.652803
+BLOCKS
+For on Joanie - VTTIntegration - on hold till Joanie gives next step
+For on Others - RAC Role - on hold till next report comes
+For on Joanie - CVCG Bio Update - on hold till next sprint
+For Joanie - PE Pages Photos - Shooting on WW28.1
+
+TASKS
+For Joanie - Look for video content from the portal - started
+For Joanie - Integration cartoon - Drafts done, need to draw 4real
+For Brent - Update Site Games - Meet
+
+--------------------------------------------------
+
+2018-07-10 16:55:58.815707
+BLOCKS
+For on Joanie - VTTIntegration - schedule meeting with joanie on next steps
+For on Joanie - CVCG Bio Update - on hold till eventually
+
+TASKS
+For Brent - Update Site Games - see below
+For Joanie - PE Pages Photos - Need to organize next shoot and thank others
+For Joanie - Look for video content from the portal - Spencer does not want to validate
+For Ron - RAC Role - Get report from ron
+--------------------------------------------------
+THINGS FOR SHANNON:
+get updated stuff from shannon (banner, captain list, divsion list, new info for home)
+remove [0,2] from admin page
+update captains and divisions
+update events ( egaming to E-Sports qty 3, kickball qty 1)
+validate stats
+wipe database - check with brent to see if he has old script
+--------------------------------------------------
+
+2018-07-13 14:35:50.335319
+PASSIVE:
+For Ron - RAC Role - Waiting until next report, forwarding questions to Ron
+For on Joanie - CVCG Bio Update - on hold till eventually
+
+ACTIVE:
+For Brent - Update Site Games - see below
+For Joanie - PE Pages Photos - next shoot WW29.4 @ 12-1pm
+For on Joanie - VTTIntegration - Begin Monday
+--------------------------------------------------
+THINGS FOR FM SITE GAMES:
+wipe database - Prepped, will do once confirmed with Shannon
+validate stats - Will work on later with Brent
+WILL MEET WITH SHANNON ON MONDAY TO DISCUSS SITE COMPLETION
+--------------------------------------------------
+THINGS FOR VTT INTEGRATION SITE:
+incorporate onboarding employees vs champions
+remove cool header from all pages sin homepage, edit to include "Onboarding and Integration"
+add "new" in small letters for onboarding, ex: "new people manager" is a tad too long
+add two new champion categories, details in powerpoint
+rename new manager to people manager
+--------------------------------------------------
+
+
